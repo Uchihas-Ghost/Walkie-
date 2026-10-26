@@ -1,0 +1,7 @@
+{
+  "name": "ipchat",
+  "version": "1.0.0",
+  "description": "Room-based messenger where the room code is an IP address",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=16" }
+}
